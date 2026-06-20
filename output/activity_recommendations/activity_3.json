@@ -1,0 +1,9 @@
+{
+  "status": "success",
+  "activity_index": 3,
+  "activity": {
+    "title": "Kafka 실시간 파이프라인 경험 포트폴리오화",
+    "description": "이미 보유한 Kafka 경험을 실시간 데이터 수집·처리 흐름이 명확히 드러나는 포트폴리오로 정리하면 우대사항인 실시간 데이터 처리 역량을 효과적으로 전달할 수 있습니다.",
+    "category": "포트폴리오 개선"
+  }
+}
