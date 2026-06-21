@@ -1,3 +1,7 @@
-.venv/
 __pycache__/
 *.pyc
+.venv/
+output/
+.env
+
+test.extracted_y.json
