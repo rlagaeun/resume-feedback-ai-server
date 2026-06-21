@@ -1,9 +1,0 @@
-{
-  "status": "success",
-  "activity_index": 2,
-  "activity": {
-    "title": "dbt + Airflow 기반 ELT 파이프라인 프로젝트",
-    "description": "우대사항인 dbt와 Airflow를 함께 활용한 데이터 변환·오케스트레이션 파이프라인을 직접 구축하면 실무형 데이터 엔지니어링 역량을 결과물로 남길 수 있습니다.",
-    "category": "프로젝트"
-  }
-}
