@@ -1,0 +1,9 @@
+{
+  "status": "success",
+  "activity_index": 1,
+  "activity": {
+    "title": "AWS Certified Data Engineer - Associate 취득",
+    "description": "공고 필수 스택인 AWS Redshift 활용 역량을 공식 자격증으로 증명하면 데이터 엔지니어링 실무 준비도를 구체적으로 보여줄 수 있습니다.",
+    "category": "자격증"
+  }
+}

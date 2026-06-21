@@ -1,0 +1,20 @@
+{
+  "recommended_activities": [
+    {
+      "title": "AWS Certified Data Engineer - Associate 취득",
+      "description": "공고 필수 스택인 AWS Redshift 활용 역량을 공식 자격증으로 증명하면 데이터 엔지니어링 실무 준비도를 구체적으로 보여줄 수 있습니다.",
+      "category": "자격증"
+    },
+    {
+      "title": "dbt + Airflow 기반 ELT 파이프라인 프로젝트",
+      "description": "우대사항인 dbt와 Airflow를 함께 활용한 데이터 변환·오케스트레이션 파이프라인을 직접 구축하면 실무형 데이터 엔지니어링 역량을 결과물로 남길 수 있습니다.",
+      "category": "프로젝트"
+    },
+    {
+      "title": "Kafka 실시간 파이프라인 경험 포트폴리오화",
+      "description": "이미 보유한 Kafka 경험을 실시간 데이터 수집·처리 흐름이 명확히 드러나는 포트폴리오로 정리하면 우대사항인 실시간 데이터 처리 역량을 효과적으로 전달할 수 있습니다.",
+      "category": "포트폴리오 개선"
+    }
+  ],
+  "status": "success"
+}

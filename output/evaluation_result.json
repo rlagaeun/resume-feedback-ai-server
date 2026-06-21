@@ -1,0 +1,42 @@
+{
+  "job_fit": {
+    "criterion": "직무 적합도",
+    "meaning": "JD/NCS 기반 직무 연관성",
+    "reference_basis": "NCS 직무기술서 + 고용24 채용공고",
+    "status": "success",
+    "level": "보통",
+    "reason": "Python, SQL, Apache Spark, Kafka, Airflow, ETL 파이프라인 등 공고 핵심 요구 기술 다수를 보유하고 있으며, 첫 번째 프로젝트에서 Kafka 실시간 스트리밍·Apache Spark 병렬 처리·ETL 파이프라인 구축 경험이 직접 확인된다. 다만 공고가 요구하는 3년 이상의 데이터 엔지니어링 경험, AWS Redshift 등 클라우드 데이터 웨어하우스 활용 경험, Airflow 워크플로우 운영 경험의 구체적 근거가 프로젝트 원문에서 확인되지 않아 직접 연결성이 일부 부족하다."
+  },
+  "experience_specificity": {
+    "criterion": "경험·성과 구체성",
+    "meaning": "역할·행동·결과·수치",
+    "reference_basis": "STAR 경험 평가 방식",
+    "status": "success",
+    "level": "우수",
+    "reason": "세 프로젝트 모두 역할(기획·풀스택 개발·데이터 파이프라인 구축 등), 행동(Selenium 크롤링·Kafka 스트리밍·TF-IDF 키워드 추출·K-Means/DBSCAN 클러스터링 등 구체적 기술 적용), 결과(모델 정확도 10% 향상, 불법 주차 42% 감소 예측, 주차 입지 11곳 선정, 경진대회 수상 등)와 수치가 STAR 방식에 부합하게 기술되어 있다. 다만 '브랜드 인지도 40% 상승'이 두 프로젝트에 중복 기재되어 있고 일부 수치의 측정 방법이 불명확한 점은 소폭 감점 요소이나, 전반적으로 구체성과 수치 근거가 충분히 제시되어 있다."
+  },
+  "technical_competency": {
+    "criterion": "실무·기술 역량",
+    "meaning": "기술 활용·구현·문제 해결",
+    "reference_basis": "NCS 직무 수행 역량 + 개발자 포트폴리오 평가 관점",
+    "status": "success",
+    "level": "우수",
+    "reason": "단순 기술 나열에 그치지 않고 Kafka·Spark·TF-IDF·GraphRAG 파이프라인 구축, 132만 건 센서 데이터 기반 K-Means·로지스틱 회귀 모델 최적화, DBSCAN+KakaoMap API를 활용한 좌표 유효성 검증 등 각 프로젝트에서 기술 선택 이유와 문제 해결 맥락이 구체적으로 제시되어 있다. 데이터 수집·전처리·모델링·배포까지 전 과정을 직접 구현한 근거가 수치 성과(정확도 10% 향상, 불법 주차 42% 감소 예측 등)와 함께 뒷받침된다."
+  },
+  "document_quality": {
+    "criterion": "문서 완성도",
+    "meaning": "가독성·구조·핵심 전달",
+    "reference_basis": "ATS/이력서 첨삭 관점",
+    "status": "success",
+    "level": "우수",
+    "reason": "3개 프로젝트 모두 역할·설명·결과·수치가 포함되어 있고, 핵심 키워드·기술 스택·수상/자격증·대외활동까지 갖춰 ATS 파싱 및 평가자 가독성 측면에서 필수 구성 요소가 충실히 채워져 있다."
+  },
+  "consistency_uniqueness": {
+    "criterion": "경험 일관성·차별성",
+    "meaning": "경험 연결성·본인만의 강점",
+    "reference_basis": "자기소개서 첨삭 및 직무 방향성 평가 관점",
+    "status": "success",
+    "level": "우수",
+    "reason": "세 프로젝트 모두 '공공·실시간 데이터 수집 → 전처리·분석 → 추천 시스템 구현'이라는 일관된 흐름으로 연결되며, 클러스터링(K-Means·DBSCAN)과 데이터 기반 입지·메뉴·활동 추천이라는 반복 강점이 단순 키워드 나열이 아닌 실제 문제 해결 맥락 속에서 구체적으로 드러난다. 여기에 GraphRAG·지식 그래프 활용이라는 차별화 포인트가 추가되어 데이터 엔지니어링과 AI 추천 시스템을 아우르는 뚜렷한 직무 방향성이 형성되어 있다."
+  }
+}
