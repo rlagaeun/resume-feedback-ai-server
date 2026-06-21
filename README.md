@@ -149,4 +149,5 @@ activity_3.json
 - Request Body는 Spring ↔ FastAPI 연동 방식 확정 후 정의 예정
 - Claude API Key는 GitHub에 포함되어 있지 않음
 - 실제 운영 시 서버 환경변수 설정 필요
+- 테스트용 이력서 데이터(`test.extracted_y.json`)는 개인정보 보호를 위해 GitHub에 포함하지 않음
 - 점수 및 레이더 차트는 별도 모듈에서 처리
